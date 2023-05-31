@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713897057804",
+    "project_id": "bodhi-ai-medical",
+    "storage_bucket": "bodhi-ai-medical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713897057804:android:c313c6271f5bed0d39d829",
+        "android_client_info": {
+          "package_name": "com.example.bodhi_ai_medical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdc1g-sUwiTsPgyYpqBjNkBKAyvaq2jxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
